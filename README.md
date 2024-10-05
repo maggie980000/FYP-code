@@ -2,6 +2,7 @@ Social media platforms provide a wealth of data that can be utilized to analyze 
 
 
 ![image](https://github.com/user-attachments/assets/0f6199c6-6ef3-4692-8870-732f69efe7d5)
-![image](https://github.com/user-attachments/assets/0fe0ad97-9499-4afb-a85d-7263569277de)
-![image](https://github.com/user-attachments/assets/dcf21d8f-67e6-45f0-a00e-4b5c18703d4b)
+![image](https://github.com/user-attachments/assets/97673275-b71c-4a49-996b-d226069a6b06)
 
+
+![image](https://github.com/user-attachments/assets/ca2b18a5-a9f2-46fd-a093-5fde5a2f3114)
