@@ -1,7 +1,11 @@
 
 # Network, Covariates, or Both: A study on dynamic network data with covariates
 
-This is the repo for my Final Year Thesis at NUS.
+This is the repo for my Final Year Thesis at NUS. 
+
+**Thesis Objectives:**
+- Identify clusters or segments of users in a social media network and interpret the segmentation.
+- Compare the segments identified from different data sources, i.e. network, covariates, or both.
 
 ## Data Collection and Description
 In this thesis, we collect user movie rating data from [Douban, a movie rating website](https://movie.douban.com/) spanning April 2023 to September 2023 and construct a dynamic user network that incorporates user attributes or covariates. 
