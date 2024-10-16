@@ -53,6 +53,6 @@ We attempt to provide possible explanations for the country-centered segmentatio
 ## Methodology 
 
 The detailed methods adopted for segmentation and more evaluation and visualization results can be refered to the [thesis](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Bao_Jiaqi_A0211257N_Final-1.pdf) and the [slides](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Slides%20(1).pdf).
-Note that I only upload my Python implementations for methods that are relatively more complex and computationally-intensive in this repo.
+Note that I only updated my Python implementations for methods that are relatively more complex and computationally-intensive in this repo.
 
 
