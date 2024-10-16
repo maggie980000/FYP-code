@@ -39,7 +39,7 @@ We use covariates beyond actors and directors such as genres and countries to co
 
 
 *Figure 2: User segment's interest score toward movie production country and genre. The size of the circle at each entry represents the relative interest that each segment has on a specific country or genre, a larger circle indicates greater interest.*
-<sub><sup>*More precisely, this interest score is measured by averaging the cluster members' ratings on one country or genre covariate, adjusted for the total ratings received by this covariate. The technical details of the caculation can be refered to the [thesis](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Bao_Jiaqi_A0211257N_Final-1.pdf) or the [slides](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Slides%20(1).pdf).*</sup></sub>
+<sub><sup>*More precisely, this interest score is measured by averaging the cluster members' ratings on one country or genre covariate, adjusted for the total ratings received by this covariate. For the detailed calculations, one can refer to the [thesis](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Bao_Jiaqi_A0211257N_Final-1.pdf) or the [slides](https://github.com/maggie980000/FYP-code/blob/main/Thesis_Slides%20(1).pdf).*</sup></sub>
 ![image](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb)
 
 **Observed Differences:**
