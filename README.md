@@ -1,11 +1,15 @@
 
 # Network, Covariates, or Both: A study on dynamic network data with covariates
-
 This is the repo for my Final Year Thesis at NUS. 
 
+I believe in the power of film as an art form with a profound social impact. In my thesis, I aim to investigate the types of films people enjoy in contemporary China, the size of various movie interest groups, and the trends in their preferences. As a data science student and film enthusiast, I am committed to supporting the often marginalized film art community by leveraging my technical skills and unique data narratives.
+
+
 **Thesis Objectives:**
-- Identify clusters or segments of users in a social media network and interpret the segmentation.
+- Identify clusters or segments of users in a social media network and interpret the resulting segmentation.
 - Compare the segments identified from different data sources, i.e. network, covariates, or both.
+
+
 
 ## Data Collection and Description
 In this thesis, we collect user movie rating data from [Douban, a movie rating website](https://movie.douban.com/) spanning April 2023 to September 2023 and construct a dynamic user network that incorporates user attributes or covariates. 
@@ -33,7 +37,7 @@ The Python parser for automated covariate generation from orignal user data scra
 
 
 ### Comparison between user segments identified from different static data sources
-We use covariates beyond actors and directors such as genres and countries to compare the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide data-driven evidence for the region and genre-centered structures of 3 distinct segmentation.
+We use covariates beyond actors and directors such as genres and countries to validate the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide data-driven evidence for the region and genre-centered structures of 3 distinct segmentation.
 
 
 
