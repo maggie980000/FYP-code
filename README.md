@@ -53,7 +53,7 @@ First, we observe that a covariate segment tends to concentrate on a specific co
 We attempt to provide possible explanations for the country-centered segmentation structure in covariates and movie genre-centered segmentation structure in network. For networks, connections are primarily formed based on trending movies, and when users decide which popular movie to watch, they are likely to ignore the country of production and choose based on their favorite genres. For covariates, actors are likely to be involved in movies with various genres, making it challenging for covariate segmentation to separate movie genres. However, the production countries of the movies in which an actor appears tends to remain consistent, leading covariate segmentation to detect users’ preferred production countries.
 
 **Implications:**
-It appears that consumers' decisions on movie ticket purchases are more influenced by their preferences for movie genres than by their interest in production countries and languages.
+It seems that consumers' decisions to purchase movie tickets are more influenced by their preferences for movie genres than by their interest in production countries and languages. What is encouraging is that geopolitical fragmentation does not appear to be reflected in movie theaters in contemporary China. This suggests that Chinese domestic movie producers can focus on content creation, as well as innovative themes and genres.
 
 
 
