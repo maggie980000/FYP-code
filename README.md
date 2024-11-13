@@ -37,7 +37,7 @@ The Python parser for automated covariate generation from orignal user data scra
 
 
 ### Comparison between user segments identified from different static data sources
-We use covariates beyond actors and directors such as genres and countries to validate the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide <data-driven evidence for the region and genre-centered structures of 3 distinct segmentation>.
+We use covariates beyond actors and directors such as genres and countries to validate the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide **data-driven evidence for the region and genre-centered structures of 3 distinct segmentation**.
 
 
 
@@ -51,6 +51,10 @@ First, we observe that a covariate segment tends to concentrate on a specific co
 
 **Possible Explanations:**
 We attempt to provide possible explanations for the country-centered segmentation structure in covariates and movie genre-centered segmentation structure in network. For networks, connections are primarily formed based on trending movies, and when users decide which popular movie to watch, they are likely to ignore the country of production and choose based on their favorite genres. For covariates, actors are likely to be involved in movies with various genres, making it challenging for covariate segmentation to separate movie genres. However, the production countries of the movies in which an actor appears tends to remain consistent, leading covariate segmentation to detect users’ preferred production countries.
+
+**Implications:**
+It appears that consumers' decisions on movie ticket purchases are more influenced by their preferences for movie genres than by their interest in production countries and languages.
+
 
 
 
