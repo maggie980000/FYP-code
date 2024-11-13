@@ -28,16 +28,16 @@ The Python parser for automated covariate generation from orignal user data scra
 
 ## Data Analysis Process and Key Findings
 
-1. We begin by conducting user segmentation or clustering based on their static **covariates** including actors and directors. Our interpretation of the segmentation results suggest that movie interests represented by covariate segments are production **country** or region-centered.
+1. We begin by conducting user segmentation or clustering based on their static **covariates** including actors and directors. Our interpretation of the segmentation results suggest that movie interests represented by covariate segments are production **country or region-centered**.
   - The Python implementation of one spectral method can be found in [static_covariates](https://github.com/maggie980000/FYP-code/tree/main/static_covariates) folder.
 2. We also identify covariate segments that are growing or shrinking, as well as movie interests with varying persistence levels.
   - The Python implementation can be found in [dynamic_covariates](https://github.com/maggie980000/FYP-code/tree/main/dynamic_covariates) folder.
-3. Additionally, user segmentation on static **network** reveals segments that represent different movie **genre** interests among users.
+3. Additionally, user segmentation on static **network** reveals segments that represent different **movie genre interests** among users.
 4. Finally, the segments identified based on static network with covariates reflect movie interests shaped by preferences for both movie genre and production country, which unveil more meaningful and coherent interests compared to those obtained using network or covariate data only.
 
 
 ### Comparison between user segments identified from different static data sources
-We use covariates beyond actors and directors such as genres and countries to validate the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide data-driven evidence for the region and genre-centered structures of 3 distinct segmentation.
+We use covariates beyond actors and directors such as genres and countries to validate the underlying factors shaping the segments identified from different static data sources, i.e. network, covariates, or both. Inspired by this [paper](https://github.com/maggie980000/FYP-code/blob/main/references/2018-AOAS-text_with_graph_facebook.pdf), in [Figure 2](https://github.com/user-attachments/assets/786c4a16-2bc9-4a16-b0ff-69aea15806cb), we provide <data-driven evidence for the region and genre-centered structures of 3 distinct segmentation>.
 
 
 
